@@ -1,0 +1,10 @@
+D:\OOP\Project\GameCaRo\GameCaRo\bin\Debug\GameCaRo.exe.config
+D:\OOP\Project\GameCaRo\GameCaRo\bin\Debug\GameCaRo.exe
+D:\OOP\Project\GameCaRo\GameCaRo\bin\Debug\GameCaRo.pdb
+D:\OOP\Project\GameCaRo\GameCaRo\obj\Debug\GameCaRo.csproj.AssemblyReference.cache
+D:\OOP\Project\GameCaRo\GameCaRo\obj\Debug\GameCaRo.Properties.Resources.resources
+D:\OOP\Project\GameCaRo\GameCaRo\obj\Debug\GameCaRo.csproj.GenerateResource.cache
+D:\OOP\Project\GameCaRo\GameCaRo\obj\Debug\GameCaRo.csproj.CoreCompileInputs.cache
+D:\OOP\Project\GameCaRo\GameCaRo\obj\Debug\GameCaRo.exe
+D:\OOP\Project\GameCaRo\GameCaRo\obj\Debug\GameCaRo.pdb
+D:\OOP\Project\GameCaRo\GameCaRo\obj\Debug\GameCaRo.Form1.resources
